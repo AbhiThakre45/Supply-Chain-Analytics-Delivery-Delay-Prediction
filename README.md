@@ -69,7 +69,7 @@ The project was developed using the following workflow:
 
 ### Demand & Product Performance Analytics
 
-![Demand Analysis](images/demand_product_analysis.png)
+![Demand Analysis](Dashboard%20Images/demand_product_analysis.png)
 
 ### Delivery Performance & Delay Analysis
 
