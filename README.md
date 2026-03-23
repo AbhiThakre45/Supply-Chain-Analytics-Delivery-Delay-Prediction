@@ -73,7 +73,7 @@ The project was developed using the following workflow:
 
 ### Delivery Performance & Delay Analysis
 
-![Delivery Analysis](images/delivery_delay_analysis.png)
+![Delivery Analysis](Dashboard%20Images/supply_chain_overview.png)
 
 ---
 
