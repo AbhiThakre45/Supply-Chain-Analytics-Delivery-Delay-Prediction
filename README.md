@@ -65,7 +65,7 @@ The project was developed using the following workflow:
 
 ### Global Supply Chain Performance Dashboard
 
-[![Supply Chain Dashboard](Dashboard Images/supply_chain_overview.png)](Dashboard Images/supply_chain_overview.png)
+[![Supply Chain Dashboard](Dashboard%20Images/supply_chain_overview.png)](Dashboard Images/supply_chain_overview.png)
 
 ### Demand & Product Performance Analytics
 
